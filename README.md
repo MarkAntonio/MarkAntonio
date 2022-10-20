@@ -34,6 +34,6 @@
   <a href = "mailto:marcosdesouza772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/m.a.r.c.o_antonio_/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   
-    ![Snake animation](https://github.com/MarkAntonio/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/MarkAntonio/MarkAntonio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
