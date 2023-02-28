@@ -6,26 +6,49 @@
 </div>
   
   <p></p>
+ 
   
 <div align = "center" style="display: inline_block"><br>
   
-  ## Linguagens que sei/estou estudando
-  <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  ## Cursando Bacharelado em Sistemas da Informação na UAST - UFRPE 
+  <img align="center" alt="Universidade" height="200" width="200" src="https://github.com/MarkAntonio/MarkAntonio/blob/main/ufrpe-uast-logo.png">
 
+  
+</div> 
   
 </div>
   
+<div align = "center" style="display: inline_block"><br>
+  
+  ## Linguagens em desenvolvimento
+  <img align="center" alt="Marco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <!-- <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img align="center" alt="Ubiratan-Jv" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+  
+</div>
+  <!--
 <div align = "center">
-  <br/>
+  <br>
   <a href = "https://git-scm.com" target="_blank">
     <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
   </a>
 </div>
+-->
+<div align = "center" style="display: inline_block"><br>
+  
+  ## Conhecimento Básico em
+ 
+  <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
 
+  
+</div>
+<br>
 <div align = "center">
   
   ## Meus contatos
