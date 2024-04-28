@@ -40,7 +40,7 @@
 -->
 <div align = "center" style="display: inline_block"><br>
   
-  ## Conhecimento superficial em
+  ## Iniciando em
  
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
