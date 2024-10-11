@@ -11,7 +11,7 @@
 </div>
   
 <div align = "center" style="display: inline_block"><br>
-   </hr>
+   <hr />
   ### Possuo conhecimento nas linguagens
   <img align="center" alt="Marco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!-- <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
 </div>
 -->
 <div align = "center" style="display: inline_block"><br>
-  </hr>
+  <hr />
   ### Fortalecendo o conhecimento em
  
   <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
@@ -41,7 +41,7 @@
 </div>
 
 <div align = "center" style="display: inline_block"><br>
-   </hr>
+   <hr />
   ### Cursando Bacharelado em Sistemas da Informação na UAST - UFRPE 
   <img align="center" alt="Universidade" height="50" width="50" src="https://github.com/MarkAntonio/MarkAntonio/blob/main/ufrpe-uast-logo.png">
 
@@ -50,7 +50,7 @@
 
 <br>
 <div align = "center">
-   </hr>
+</hr />
   ### Meus contatos
  
   <a href="https://www.linkedin.com/in/mark005/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
