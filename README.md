@@ -1,5 +1,5 @@
-# Hi there, i'm Marco! 👋
-## Welcome to my portfolio!
+# Olá visitante, me chamo Marco! 👋
+## Seja muito bem vindo ao meu portfolio!
 <div align="center">
   <a href="https://github.com/MarkAntonio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarkAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,7 +21,7 @@
   
 <div align = "center" style="display: inline_block"><br>
   
-  ## Linguagens em Aprendizado
+  ## Possuo conhecimento nas linguagens
   <img align="center" alt="Marco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!-- <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,11 +40,10 @@
 -->
 <div align = "center" style="display: inline_block"><br>
   
-  ## Iniciando em
+  ## Fortalecendo o conhecimento em
  
-  <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
   
 
   
