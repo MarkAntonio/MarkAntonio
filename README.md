@@ -11,8 +11,8 @@
 </div>
   
 <div align = "center" style="display: inline_block"><br>
-   <hr />
-  ### Possuo conhecimento nas linguagens
+  
+  ## Possuo conhecimento nas linguagens
   <img align="center" alt="Marco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!-- <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,8 +30,8 @@
 </div>
 -->
 <div align = "center" style="display: inline_block"><br>
-  <hr />
-  ### Fortalecendo o conhecimento em
+  
+  ## Fortalecendo o conhecimento em
  
   <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
@@ -41,9 +41,9 @@
 </div>
 
 <div align = "center" style="display: inline_block"><br>
-   <hr />
-  ### Cursando Bacharelado em Sistemas da Informação na UAST - UFRPE 
-  <img align="center" alt="Universidade" height="50" width="50" src="https://github.com/MarkAntonio/MarkAntonio/blob/main/ufrpe-uast-logo.png">
+
+  ## Cursando Bacharelado em Sistemas da Informação na UAST - UFRPE 
+  <img align="center" alt="Universidade" height="100" width="100" src="https://github.com/MarkAntonio/MarkAntonio/blob/main/ufrpe-uast-logo.png">
 
   
 </div> 
